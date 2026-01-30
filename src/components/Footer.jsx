@@ -127,7 +127,7 @@ const Footer = () => {
               alt="logo"
               className="object-contain rounded-full mb-3"
             />
-            <h3 className="text-2xl font-bold mb-1">Abhika Tech Solution</h3>
+            <h3 className="text-2xl font-bold mb-1">Abhay Tech Solution</h3>
             <p className="text-tertiary">Crafting Digital Excellence</p>
           </div>
 
