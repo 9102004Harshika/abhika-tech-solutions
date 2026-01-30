@@ -23,15 +23,6 @@ const teamMembers = [
     },
   },
   {
-    name: "Harshika Gawade",
-    role: "Lead Frontend Developer",
-    imageUrl: "https://avatars.githubusercontent.com/u/110835926?v=4",
-    social: {
-      github: "https://github.com/9102004Harshika/",
-      linkedin: "https://www.linkedin.com/in/harshikagawade/",
-    },
-  },
-  {
     name: "Akash Pal",
     role: "UI/UX & Frontend Developer",
     imageUrl: "https://avatars.githubusercontent.com/u/127613982?v=4",
