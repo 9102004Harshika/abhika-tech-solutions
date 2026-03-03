@@ -40,6 +40,24 @@ const teamMembers = [
       linkedin: "http://www.linkedin.com/in/vaibhav-pednekar-96a625330",
     },
   },
+   {
+    name: "Rishabh Paswan",
+    role: "Software Engineer & Tester",
+    imageUrl: "https://avatars.githubusercontent.com/u/10902969?v=4",
+    social: {
+      github: "#",
+      linkedin: "LinkedinUrl",
+    },
+  },
+  {
+    name: "Harshika Gawade",
+    role: "Software Engineer & Tester",
+    imageUrl: "https://avatars.githubusercontent.com/u/110835926?s=400&u=d3d2f109ec6012eb420c3ba9d2806b0c68d112bf&v=4",
+    social: {
+      github: "#",
+      linkedin: "https://www.linkedin.com/in/harshikagawade/",
+    },
+  },
 ];
 
 const TeamCard = ({ member }) => (
